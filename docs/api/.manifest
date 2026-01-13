@@ -1,0 +1,19 @@
+{
+  "Erstes_Wiki.Controllers": "Erstes_Wiki.Controllers.yml",
+  "Erstes_Wiki.Controllers.HomeController": "Erstes_Wiki.Controllers.HomeController.yml",
+  "Erstes_Wiki.Controllers.HomeController.Error": "Erstes_Wiki.Controllers.HomeController.yml",
+  "Erstes_Wiki.Controllers.HomeController.Index": "Erstes_Wiki.Controllers.HomeController.yml",
+  "Erstes_Wiki.Controllers.HomeController.Privacy": "Erstes_Wiki.Controllers.HomeController.yml",
+  "Erstes_Wiki.Data": "Erstes_Wiki.Data.yml",
+  "Erstes_Wiki.Data.ApplicationDbContext": "Erstes_Wiki.Data.ApplicationDbContext.yml",
+  "Erstes_Wiki.Data.ApplicationDbContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{Erstes_Wiki.Data.ApplicationDbContext})": "Erstes_Wiki.Data.ApplicationDbContext.yml",
+  "Erstes_Wiki.Data.Migrations": "Erstes_Wiki.Data.Migrations.yml",
+  "Erstes_Wiki.Data.Migrations.CreateIdentitySchema": "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.yml",
+  "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)": "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.yml",
+  "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.yml",
+  "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.yml",
+  "Erstes_Wiki.Models": "Erstes_Wiki.Models.yml",
+  "Erstes_Wiki.Models.ErrorViewModel": "Erstes_Wiki.Models.ErrorViewModel.yml",
+  "Erstes_Wiki.Models.ErrorViewModel.RequestId": "Erstes_Wiki.Models.ErrorViewModel.yml",
+  "Erstes_Wiki.Models.ErrorViewModel.ShowRequestId": "Erstes_Wiki.Models.ErrorViewModel.yml"
+}

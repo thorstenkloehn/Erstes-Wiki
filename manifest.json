@@ -1,0 +1,230 @@
+{
+  "source_base_path": "/home/thorsten/Erstes-Wiki/docs",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Controllers.HomeController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Controllers.HomeController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Controllers.HomeController",
+      "Summary": "<p sourcefile=\"api/Erstes_Wiki.Controllers.HomeController.yml\" sourcestartlinenumber=\"1\">Der HomeController steuert die Startseite und die Datenschutzseite.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Controllers.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Controllers",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Data.ApplicationDbContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Data.ApplicationDbContext.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Data.ApplicationDbContext",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Data.Migrations.CreateIdentitySchema.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Data.Migrations.CreateIdentitySchema.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Data.Migrations.CreateIdentitySchema",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Data.Migrations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Data.Migrations.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Data.Migrations",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Data.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Data",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Models.ErrorViewModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Models.ErrorViewModel.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Models.ErrorViewModel",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Models.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Models",
+      "Summary": null
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        },
+        ".html": {
+          "relative_path": "api/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "architektur.md",
+      "output": {
+        ".html": {
+          "relative_path": "architektur.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "controller.md",
+      "output": {
+        ".html": {
+          "relative_path": "controller.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "docs/toc.json"
+        },
+        ".html": {
+          "relative_path": "docs/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "impressum.md",
+      "output": {
+        ".html": {
+          "relative_path": "impressum.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        },
+        ".html": {
+          "relative_path": "toc.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
