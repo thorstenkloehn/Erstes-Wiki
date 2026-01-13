@@ -137,6 +137,16 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "datenschutz.md",
+      "output": {
+        ".html": {
+          "relative_path": "datenschutz.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "docs/Konzept_und_Einleitung.md",
       "output": {
         ".html": {
