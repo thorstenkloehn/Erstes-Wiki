@@ -39,25 +39,10 @@
     "title": "Namespace Erstes_Wiki.Models | ahrensburg.city – Dokumentation",
     "summary": "Namespace Erstes_Wiki.Models Classes ErrorViewModel"
   },
-  "architektur.html": {
-    "href": "architektur.html",
-    "title": "Architektur | ahrensburg.city – Dokumentation",
-    "summary": "Architektur Dieses Projekt basiert auf ASP.NET Core und verwendet das MVC-Muster. Controller: Steuern die Logik und die Navigation. Models: Repräsentieren die Datenstruktur. Views: Präsentieren die Daten im Browser. Die Authentifizierung erfolgt über ASP.NET Identity. Die Datenbank ist SQLite."
-  },
-  "controller.html": {
-    "href": "controller.html",
-    "title": "HomeController | ahrensburg.city – Dokumentation",
-    "summary": "HomeController Der HomeController ist für die Startseite und die Datenschutzseite zuständig. Aktionen Index: Zeigt die Startseite an. Privacy: Zeigt die Datenschutzseite an. Beispiel-Code public class HomeController : Controller { public IActionResult Index() { return View(); } public IActionResult Privacy() { return View(); } }"
-  },
-  "docs/getting-started.html": {
-    "href": "docs/getting-started.html",
-    "title": "Getting Started | ahrensburg.city – Dokumentation",
-    "summary": "Getting Started"
-  },
-  "docs/introduction.html": {
-    "href": "docs/introduction.html",
-    "title": "Introduction | ahrensburg.city – Dokumentation",
-    "summary": "Introduction"
+  "docs/Konzept_und_Einleitung.html": {
+    "href": "docs/Konzept_und_Einleitung.html",
+    "title": "Konzept und Einleitung | ahrensburg.city – Dokumentation",
+    "summary": "Konzept und Einleitung Einleitung Heutzutage muss Wissen ohne großen Aufwand gespeichert und sehr schnell verändert werden können. Künstliche Intelligenz kann dabei ebenfalls unterstützen und die Bearbeitung verbessern. Viele Personen können Inhalte bearbeiten, der Admin kontrolliert die geschriebenen Inhalte. Er kann Korrekturen vornehmen und freigeben. Mein Projekt speichert keine Benutzerdaten. Aus diesem Grund kann ich meine Inhalte nicht direkt bearbeiten; andere Nutzer können sie jedoch herunterladen und weiterbearbeiten."
   },
   "impressum.html": {
     "href": "impressum.html",
