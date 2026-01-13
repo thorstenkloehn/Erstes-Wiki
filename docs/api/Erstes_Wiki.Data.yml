@@ -1,0 +1,46 @@
+### YamlMime:ManagedReference
+items:
+- uid: Erstes_Wiki.Data
+  commentId: N:Erstes_Wiki.Data
+  id: Erstes_Wiki.Data
+  children:
+  - Erstes_Wiki.Data.ApplicationDbContext
+  langs:
+  - csharp
+  - vb
+  name: Erstes_Wiki.Data
+  nameWithType: Erstes_Wiki.Data
+  fullName: Erstes_Wiki.Data
+  type: Namespace
+  assemblies:
+  - Erstes-Wiki
+references:
+- uid: Erstes_Wiki.Data.ApplicationDbContext
+  commentId: T:Erstes_Wiki.Data.ApplicationDbContext
+  parent: Erstes_Wiki.Data
+  href: Erstes_Wiki.Data.ApplicationDbContext.html
+  name: ApplicationDbContext
+  nameWithType: ApplicationDbContext
+  fullName: Erstes_Wiki.Data.ApplicationDbContext
+- uid: Erstes_Wiki.Data
+  commentId: N:Erstes_Wiki.Data
+  href: Erstes_Wiki.html
+  name: Erstes_Wiki.Data
+  nameWithType: Erstes_Wiki.Data
+  fullName: Erstes_Wiki.Data
+  spec.csharp:
+  - uid: Erstes_Wiki
+    name: Erstes_Wiki
+    href: Erstes_Wiki.html
+  - name: .
+  - uid: Erstes_Wiki.Data
+    name: Data
+    href: Erstes_Wiki.Data.html
+  spec.vb:
+  - uid: Erstes_Wiki
+    name: Erstes_Wiki
+    href: Erstes_Wiki.html
+  - name: .
+  - uid: Erstes_Wiki.Data
+    name: Data
+    href: Erstes_Wiki.Data.html

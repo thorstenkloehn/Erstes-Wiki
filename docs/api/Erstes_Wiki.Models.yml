@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: Erstes_Wiki.Models
+  commentId: N:Erstes_Wiki.Models
+  id: Erstes_Wiki.Models
+  children:
+  - Erstes_Wiki.Models.ErrorViewModel
+  langs:
+  - csharp
+  - vb
+  name: Erstes_Wiki.Models
+  nameWithType: Erstes_Wiki.Models
+  fullName: Erstes_Wiki.Models
+  type: Namespace
+  assemblies:
+  - Erstes-Wiki
+references:
+- uid: Erstes_Wiki.Models.ErrorViewModel
+  commentId: T:Erstes_Wiki.Models.ErrorViewModel
+  href: Erstes_Wiki.Models.ErrorViewModel.html
+  name: ErrorViewModel
+  nameWithType: ErrorViewModel
+  fullName: Erstes_Wiki.Models.ErrorViewModel

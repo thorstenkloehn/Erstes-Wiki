@@ -1,0 +1,31 @@
+### YamlMime:TableOfContent
+items:
+- uid: Erstes_Wiki.Controllers
+  name: Erstes_Wiki.Controllers
+  type: Namespace
+  items:
+  - uid: Erstes_Wiki.Controllers.HomeController
+    name: HomeController
+    type: Class
+- uid: Erstes_Wiki.Data
+  name: Erstes_Wiki.Data
+  type: Namespace
+  items:
+  - uid: Erstes_Wiki.Data.ApplicationDbContext
+    name: ApplicationDbContext
+    type: Class
+- uid: Erstes_Wiki.Data.Migrations
+  name: Erstes_Wiki.Data.Migrations
+  type: Namespace
+  items:
+  - uid: Erstes_Wiki.Data.Migrations.CreateIdentitySchema
+    name: CreateIdentitySchema
+    type: Class
+- uid: Erstes_Wiki.Models
+  name: Erstes_Wiki.Models
+  type: Namespace
+  items:
+  - uid: Erstes_Wiki.Models.ErrorViewModel
+    name: ErrorViewModel
+    type: Class
+memberLayout: SamePage

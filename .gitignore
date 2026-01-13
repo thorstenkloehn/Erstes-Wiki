@@ -1,0 +1,68 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+$RECYCLE.BIN/
+.vscode/
+.idea/
+**/.localhistory/
+*.swp
+*.bak
+*.orig
+*.rej
+.history/
+
+# Visual Studio / Rider
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.DotSettings.user
+_ReSharper.Caches/
+
+# .NET build outputs
+**/bin/
+**/obj/
+**/TestResults/
+**/artifacts/
+*.pdb
+*.log
+*.cache
+
+# Publish outputs
+**/publish/
+*.pubxml.user
+
+# NuGet
+**/packages/
+*.nupkg
+*.snupkg
+
+# Node / Web
+**/node_modules/
+**/dist/
+**/build/
+.npm/
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.parcel-cache
+.next/
+
+# Datenbanken
+app.db
+*.sqlite
+*.mdf
+*.ldf
+
+# Secrets / Lokale Konfiguration
+secrets.json
+.env
+.env.*.local
+appsettings.Development.json
+appsettings.*.local.json
+appsettings.json 
+
+docs/_site

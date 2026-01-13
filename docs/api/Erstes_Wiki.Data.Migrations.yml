@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: Erstes_Wiki.Data.Migrations
+  commentId: N:Erstes_Wiki.Data.Migrations
+  id: Erstes_Wiki.Data.Migrations
+  children:
+  - Erstes_Wiki.Data.Migrations.CreateIdentitySchema
+  langs:
+  - csharp
+  - vb
+  name: Erstes_Wiki.Data.Migrations
+  nameWithType: Erstes_Wiki.Data.Migrations
+  fullName: Erstes_Wiki.Data.Migrations
+  type: Namespace
+  assemblies:
+  - Erstes-Wiki
+references:
+- uid: Erstes_Wiki.Data.Migrations.CreateIdentitySchema
+  commentId: T:Erstes_Wiki.Data.Migrations.CreateIdentitySchema
+  href: Erstes_Wiki.Data.Migrations.CreateIdentitySchema.html
+  name: CreateIdentitySchema
+  nameWithType: CreateIdentitySchema
+  fullName: Erstes_Wiki.Data.Migrations.CreateIdentitySchema

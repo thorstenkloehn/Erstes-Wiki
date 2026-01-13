@@ -1,0 +1,10 @@
+- name: Dokumentation
+  href: docs/
+- name: Architektur
+  href: architektur.md
+- name: Controller
+  href: controller.md
+- name: API
+  href: api/
+- name: Impressum
+  href: impressum.md
