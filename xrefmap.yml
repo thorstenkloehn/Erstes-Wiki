@@ -74,6 +74,25 @@ references:
   isSpec: "True"
   fullName: Erstes_Wiki.Controllers.PageController.Index
   nameWithType: PageController.Index
+- uid: Erstes_Wiki.Controllers.StartController
+  name: StartController
+  href: api/Erstes_Wiki.Controllers.StartController.html
+  commentId: T:Erstes_Wiki.Controllers.StartController
+  fullName: Erstes_Wiki.Controllers.StartController
+  nameWithType: StartController
+- uid: Erstes_Wiki.Controllers.StartController.Index
+  name: Index()
+  href: api/Erstes_Wiki.Controllers.StartController.html#Erstes_Wiki_Controllers_StartController_Index
+  commentId: M:Erstes_Wiki.Controllers.StartController.Index
+  fullName: Erstes_Wiki.Controllers.StartController.Index()
+  nameWithType: StartController.Index()
+- uid: Erstes_Wiki.Controllers.StartController.Index*
+  name: Index
+  href: api/Erstes_Wiki.Controllers.StartController.html#Erstes_Wiki_Controllers_StartController_Index_
+  commentId: Overload:Erstes_Wiki.Controllers.StartController.Index
+  isSpec: "True"
+  fullName: Erstes_Wiki.Controllers.StartController.Index
+  nameWithType: StartController.Index
 - uid: Erstes_Wiki.Data
   name: Erstes_Wiki.Data
   href: api/Erstes_Wiki.Data.html

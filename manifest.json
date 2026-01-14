@@ -40,6 +40,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Controllers.StartController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Controllers.StartController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Controllers.StartController",
+      "Summary": "<p sourcefile=\"api/Erstes_Wiki.Controllers.StartController.yml\" sourcestartlinenumber=\"1\">Der PageController steuert die Neben Seite.</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Erstes_Wiki.Controllers.yml",
       "output": {
         ".html": {
