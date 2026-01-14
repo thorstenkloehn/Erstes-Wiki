@@ -4,7 +4,7 @@ items:
   commentId: N:Erstes_Wiki.Controllers
   id: Erstes_Wiki.Controllers
   children:
-  - Erstes_Wiki.Controllers.HomeController
+  - Erstes_Wiki.Controllers.PageController
   langs:
   - csharp
   - vb
@@ -15,9 +15,9 @@ items:
   assemblies:
   - Erstes-Wiki
 references:
-- uid: Erstes_Wiki.Controllers.HomeController
-  commentId: T:Erstes_Wiki.Controllers.HomeController
-  href: Erstes_Wiki.Controllers.HomeController.html
-  name: HomeController
-  nameWithType: HomeController
-  fullName: Erstes_Wiki.Controllers.HomeController
+- uid: Erstes_Wiki.Controllers.PageController
+  commentId: T:Erstes_Wiki.Controllers.PageController
+  href: Erstes_Wiki.Controllers.PageController.html
+  name: PageController
+  nameWithType: PageController
+  fullName: Erstes_Wiki.Controllers.PageController

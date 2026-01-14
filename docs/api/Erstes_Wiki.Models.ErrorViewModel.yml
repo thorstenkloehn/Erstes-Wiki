@@ -15,8 +15,12 @@ items:
   fullName: Erstes_Wiki.Models.ErrorViewModel
   type: Class
   source:
+    remote:
+      path: Models/ErrorViewModel.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: ErrorViewModel
-    path: /home/thorsten/Erstes-Wiki/Models/ErrorViewModel.cs
+    path: ../Models/ErrorViewModel.cs
     startLine: 2
   assemblies:
   - Erstes-Wiki
@@ -46,8 +50,12 @@ items:
   fullName: Erstes_Wiki.Models.ErrorViewModel.RequestId
   type: Property
   source:
+    remote:
+      path: Models/ErrorViewModel.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: RequestId
-    path: /home/thorsten/Erstes-Wiki/Models/ErrorViewModel.cs
+    path: ../Models/ErrorViewModel.cs
     startLine: 4
   assemblies:
   - Erstes-Wiki
@@ -71,8 +79,12 @@ items:
   fullName: Erstes_Wiki.Models.ErrorViewModel.ShowRequestId
   type: Property
   source:
+    remote:
+      path: Models/ErrorViewModel.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: ShowRequestId
-    path: /home/thorsten/Erstes-Wiki/Models/ErrorViewModel.cs
+    path: ../Models/ErrorViewModel.cs
     startLine: 6
   assemblies:
   - Erstes-Wiki

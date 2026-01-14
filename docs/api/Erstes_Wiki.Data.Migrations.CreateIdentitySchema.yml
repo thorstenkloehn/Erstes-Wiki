@@ -16,8 +16,12 @@ items:
   fullName: Erstes_Wiki.Data.Migrations.CreateIdentitySchema
   type: Class
   source:
+    remote:
+      path: Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: CreateIdentitySchema
-    path: /home/thorsten/Erstes-Wiki/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs
+    path: ../Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs
     startLine: 10
   assemblies:
   - Erstes-Wiki
@@ -74,8 +78,12 @@ items:
   fullName: Erstes_Wiki.Data.Migrations.CreateIdentitySchema.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
   type: Method
   source:
+    remote:
+      path: Data/Migrations/00000000000000_CreateIdentitySchema.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: Up
-    path: /home/thorsten/Erstes-Wiki/Data/Migrations/00000000000000_CreateIdentitySchema.cs
+    path: ../Data/Migrations/00000000000000_CreateIdentitySchema.cs
     startLine: 7
   assemblies:
   - Erstes-Wiki
@@ -116,8 +124,12 @@ items:
   fullName: Erstes_Wiki.Data.Migrations.CreateIdentitySchema.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)
   type: Method
   source:
+    remote:
+      path: Data/Migrations/00000000000000_CreateIdentitySchema.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: Down
-    path: /home/thorsten/Erstes-Wiki/Data/Migrations/00000000000000_CreateIdentitySchema.cs
+    path: ../Data/Migrations/00000000000000_CreateIdentitySchema.cs
     startLine: 192
   assemblies:
   - Erstes-Wiki
@@ -160,8 +172,12 @@ items:
   fullName: Erstes_Wiki.Data.Migrations.CreateIdentitySchema.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)
   type: Method
   source:
+    remote:
+      path: Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: BuildTargetModel
-    path: /home/thorsten/Erstes-Wiki/Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs
+    path: ../Data/Migrations/00000000000000_CreateIdentitySchema.Designer.cs
     startLine: 14
   assemblies:
   - Erstes-Wiki

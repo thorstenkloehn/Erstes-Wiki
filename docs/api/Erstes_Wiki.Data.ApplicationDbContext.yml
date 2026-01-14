@@ -14,8 +14,12 @@ items:
   fullName: Erstes_Wiki.Data.ApplicationDbContext
   type: Class
   source:
+    remote:
+      path: Data/ApplicationDbContext.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: ApplicationDbContext
-    path: /home/thorsten/Erstes-Wiki/Data/ApplicationDbContext.cs
+    path: ../Data/ApplicationDbContext.cs
     startLine: 5
   assemblies:
   - Erstes-Wiki
@@ -117,8 +121,12 @@ items:
   fullName: Erstes_Wiki.Data.ApplicationDbContext.ApplicationDbContext(Microsoft.EntityFrameworkCore.DbContextOptions<Erstes_Wiki.Data.ApplicationDbContext>)
   type: Constructor
   source:
+    remote:
+      path: Data/ApplicationDbContext.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: .ctor
-    path: /home/thorsten/Erstes-Wiki/Data/ApplicationDbContext.cs
+    path: ../Data/ApplicationDbContext.cs
     startLine: 5
   assemblies:
   - Erstes-Wiki

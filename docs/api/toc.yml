@@ -4,8 +4,8 @@ items:
   name: Erstes_Wiki.Controllers
   type: Namespace
   items:
-  - uid: Erstes_Wiki.Controllers.HomeController
-    name: HomeController
+  - uid: Erstes_Wiki.Controllers.PageController
+    name: PageController
     type: Class
 - uid: Erstes_Wiki.Data
   name: Erstes_Wiki.Data

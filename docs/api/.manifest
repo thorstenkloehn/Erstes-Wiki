@@ -1,9 +1,7 @@
 {
   "Erstes_Wiki.Controllers": "Erstes_Wiki.Controllers.yml",
-  "Erstes_Wiki.Controllers.HomeController": "Erstes_Wiki.Controllers.HomeController.yml",
-  "Erstes_Wiki.Controllers.HomeController.Error": "Erstes_Wiki.Controllers.HomeController.yml",
-  "Erstes_Wiki.Controllers.HomeController.Index": "Erstes_Wiki.Controllers.HomeController.yml",
-  "Erstes_Wiki.Controllers.HomeController.Privacy": "Erstes_Wiki.Controllers.HomeController.yml",
+  "Erstes_Wiki.Controllers.PageController": "Erstes_Wiki.Controllers.PageController.yml",
+  "Erstes_Wiki.Controllers.PageController.Index(System.String)": "Erstes_Wiki.Controllers.PageController.yml",
   "Erstes_Wiki.Data": "Erstes_Wiki.Data.yml",
   "Erstes_Wiki.Data.ApplicationDbContext": "Erstes_Wiki.Data.ApplicationDbContext.yml",
   "Erstes_Wiki.Data.ApplicationDbContext.#ctor(Microsoft.EntityFrameworkCore.DbContextOptions{Erstes_Wiki.Data.ApplicationDbContext})": "Erstes_Wiki.Data.ApplicationDbContext.yml",
