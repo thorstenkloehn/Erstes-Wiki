@@ -1,0 +1,452 @@
+### YamlMime:ManagedReference
+items:
+- uid: Erstes_Wiki.Models.Page
+  commentId: T:Erstes_Wiki.Models.Page
+  id: Page
+  parent: Erstes_Wiki.Models
+  children:
+  - Erstes_Wiki.Models.Page.Id
+  - Erstes_Wiki.Models.Page.Inhalt
+  - Erstes_Wiki.Models.Page.Slug
+  langs:
+  - csharp
+  - vb
+  name: Page
+  nameWithType: Page
+  fullName: Erstes_Wiki.Models.Page
+  type: Class
+  source:
+    remote:
+      path: Models/Page.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
+    id: Page
+    path: ../Models/Page.cs
+    startLine: 5
+  assemblies:
+  - Erstes-Wiki
+  namespace: Erstes_Wiki.Models
+  syntax:
+    content: public class Page
+    content.vb: Public Class Page
+  inheritance:
+  - System.Object
+  inheritedMembers:
+  - System.Object.Equals(System.Object)
+  - System.Object.Equals(System.Object,System.Object)
+  - System.Object.GetHashCode
+  - System.Object.GetType
+  - System.Object.MemberwiseClone
+  - System.Object.ReferenceEquals(System.Object,System.Object)
+  - System.Object.ToString
+- uid: Erstes_Wiki.Models.Page.Id
+  commentId: P:Erstes_Wiki.Models.Page.Id
+  id: Id
+  parent: Erstes_Wiki.Models.Page
+  langs:
+  - csharp
+  - vb
+  name: Id
+  nameWithType: Page.Id
+  fullName: Erstes_Wiki.Models.Page.Id
+  type: Property
+  source:
+    remote:
+      path: Models/Page.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
+    id: Id
+    path: ../Models/Page.cs
+    startLine: 7
+  assemblies:
+  - Erstes-Wiki
+  namespace: Erstes_Wiki.Models
+  syntax:
+    content: public BigInteger Id { get; set; }
+    parameters: []
+    return:
+      type: System.Numerics.BigInteger
+    content.vb: Public Property Id As BigInteger
+  overload: Erstes_Wiki.Models.Page.Id*
+- uid: Erstes_Wiki.Models.Page.Slug
+  commentId: P:Erstes_Wiki.Models.Page.Slug
+  id: Slug
+  parent: Erstes_Wiki.Models.Page
+  langs:
+  - csharp
+  - vb
+  name: Slug
+  nameWithType: Page.Slug
+  fullName: Erstes_Wiki.Models.Page.Slug
+  type: Property
+  source:
+    remote:
+      path: Models/Page.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
+    id: Slug
+    path: ../Models/Page.cs
+    startLine: 8
+  assemblies:
+  - Erstes-Wiki
+  namespace: Erstes_Wiki.Models
+  syntax:
+    content: public string Slug { get; set; }
+    parameters: []
+    return:
+      type: System.String
+    content.vb: Public Property Slug As String
+  overload: Erstes_Wiki.Models.Page.Slug*
+- uid: Erstes_Wiki.Models.Page.Inhalt
+  commentId: P:Erstes_Wiki.Models.Page.Inhalt
+  id: Inhalt
+  parent: Erstes_Wiki.Models.Page
+  langs:
+  - csharp
+  - vb
+  name: Inhalt
+  nameWithType: Page.Inhalt
+  fullName: Erstes_Wiki.Models.Page.Inhalt
+  type: Property
+  source:
+    remote:
+      path: Models/Page.cs
+      branch: main
+      repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
+    id: Inhalt
+    path: ../Models/Page.cs
+    startLine: 9
+  assemblies:
+  - Erstes-Wiki
+  namespace: Erstes_Wiki.Models
+  syntax:
+    content: public string Inhalt { get; set; }
+    parameters: []
+    return:
+      type: System.String
+    content.vb: Public Property Inhalt As String
+  overload: Erstes_Wiki.Models.Page.Inhalt*
+references:
+- uid: Erstes_Wiki.Models
+  commentId: N:Erstes_Wiki.Models
+  href: Erstes_Wiki.html
+  name: Erstes_Wiki.Models
+  nameWithType: Erstes_Wiki.Models
+  fullName: Erstes_Wiki.Models
+  spec.csharp:
+  - uid: Erstes_Wiki
+    name: Erstes_Wiki
+    href: Erstes_Wiki.html
+  - name: .
+  - uid: Erstes_Wiki.Models
+    name: Models
+    href: Erstes_Wiki.Models.html
+  spec.vb:
+  - uid: Erstes_Wiki
+    name: Erstes_Wiki
+    href: Erstes_Wiki.html
+  - name: .
+  - uid: Erstes_Wiki.Models
+    name: Models
+    href: Erstes_Wiki.Models.html
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: System.Object.Equals(System.Object)
+  commentId: M:System.Object.Equals(System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  name: Equals(object)
+  nameWithType: object.Equals(object)
+  fullName: object.Equals(object)
+  nameWithType.vb: Object.Equals(Object)
+  fullName.vb: Object.Equals(Object)
+  name.vb: Equals(Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.Equals(System.Object,System.Object)
+  commentId: M:System.Object.Equals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  name: Equals(object, object)
+  nameWithType: object.Equals(object, object)
+  fullName: object.Equals(object, object)
+  nameWithType.vb: Object.Equals(Object, Object)
+  fullName.vb: Object.Equals(Object, Object)
+  name.vb: Equals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.GetHashCode
+  commentId: M:System.Object.GetHashCode
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  name: GetHashCode()
+  nameWithType: object.GetHashCode()
+  fullName: object.GetHashCode()
+  nameWithType.vb: Object.GetHashCode()
+  fullName.vb: Object.GetHashCode()
+  spec.csharp:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+- uid: System.Object.GetType
+  commentId: M:System.Object.GetType
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  name: GetType()
+  nameWithType: object.GetType()
+  fullName: object.GetType()
+  nameWithType.vb: Object.GetType()
+  fullName.vb: Object.GetType()
+  spec.csharp:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+- uid: System.Object.MemberwiseClone
+  commentId: M:System.Object.MemberwiseClone
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  name: MemberwiseClone()
+  nameWithType: object.MemberwiseClone()
+  fullName: object.MemberwiseClone()
+  nameWithType.vb: Object.MemberwiseClone()
+  fullName.vb: Object.MemberwiseClone()
+  spec.csharp:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+- uid: System.Object.ReferenceEquals(System.Object,System.Object)
+  commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  name: ReferenceEquals(object, object)
+  nameWithType: object.ReferenceEquals(object, object)
+  fullName: object.ReferenceEquals(object, object)
+  nameWithType.vb: Object.ReferenceEquals(Object, Object)
+  fullName.vb: Object.ReferenceEquals(Object, Object)
+  name.vb: ReferenceEquals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.ToString
+  commentId: M:System.Object.ToString
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  name: ToString()
+  nameWithType: object.ToString()
+  fullName: object.ToString()
+  nameWithType.vb: Object.ToString()
+  fullName.vb: Object.ToString()
+  spec.csharp:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: Erstes_Wiki.Models.Page.Id*
+  commentId: Overload:Erstes_Wiki.Models.Page.Id
+  href: Erstes_Wiki.Models.Page.html#Erstes_Wiki_Models_Page_Id
+  name: Id
+  nameWithType: Page.Id
+  fullName: Erstes_Wiki.Models.Page.Id
+- uid: System.Numerics.BigInteger
+  commentId: T:System.Numerics.BigInteger
+  parent: System.Numerics
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.numerics.biginteger
+  name: BigInteger
+  nameWithType: BigInteger
+  fullName: System.Numerics.BigInteger
+- uid: System.Numerics
+  commentId: N:System.Numerics
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System.Numerics
+  nameWithType: System.Numerics
+  fullName: System.Numerics
+  spec.csharp:
+  - uid: System
+    name: System
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system
+  - name: .
+  - uid: System.Numerics
+    name: Numerics
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.numerics
+  spec.vb:
+  - uid: System
+    name: System
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system
+  - name: .
+  - uid: System.Numerics
+    name: Numerics
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.numerics
+- uid: Erstes_Wiki.Models.Page.Slug*
+  commentId: Overload:Erstes_Wiki.Models.Page.Slug
+  href: Erstes_Wiki.Models.Page.html#Erstes_Wiki_Models_Page_Slug
+  name: Slug
+  nameWithType: Page.Slug
+  fullName: Erstes_Wiki.Models.Page.Slug
+- uid: System.String
+  commentId: T:System.String
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.string
+  name: string
+  nameWithType: string
+  fullName: string
+  nameWithType.vb: String
+  fullName.vb: String
+  name.vb: String
+- uid: Erstes_Wiki.Models.Page.Inhalt*
+  commentId: Overload:Erstes_Wiki.Models.Page.Inhalt
+  href: Erstes_Wiki.Models.Page.html#Erstes_Wiki_Models_Page_Inhalt
+  name: Inhalt
+  nameWithType: Page.Inhalt
+  fullName: Erstes_Wiki.Models.Page.Inhalt

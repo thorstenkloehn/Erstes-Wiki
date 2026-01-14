@@ -5,6 +5,7 @@ items:
   id: Erstes_Wiki.Models
   children:
   - Erstes_Wiki.Models.ErrorViewModel
+  - Erstes_Wiki.Models.Page
   langs:
   - csharp
   - vb
@@ -21,3 +22,9 @@ references:
   name: ErrorViewModel
   nameWithType: ErrorViewModel
   fullName: Erstes_Wiki.Models.ErrorViewModel
+- uid: Erstes_Wiki.Models.Page
+  commentId: T:Erstes_Wiki.Models.Page
+  href: Erstes_Wiki.Models.Page.html
+  name: Page
+  nameWithType: Page
+  fullName: Erstes_Wiki.Models.Page

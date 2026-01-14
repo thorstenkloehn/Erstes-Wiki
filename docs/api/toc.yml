@@ -28,4 +28,7 @@ items:
   - uid: Erstes_Wiki.Models.ErrorViewModel
     name: ErrorViewModel
     type: Class
+  - uid: Erstes_Wiki.Models.Page
+    name: Page
+    type: Class
 memberLayout: SamePage

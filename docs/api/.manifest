@@ -13,5 +13,9 @@
   "Erstes_Wiki.Models": "Erstes_Wiki.Models.yml",
   "Erstes_Wiki.Models.ErrorViewModel": "Erstes_Wiki.Models.ErrorViewModel.yml",
   "Erstes_Wiki.Models.ErrorViewModel.RequestId": "Erstes_Wiki.Models.ErrorViewModel.yml",
-  "Erstes_Wiki.Models.ErrorViewModel.ShowRequestId": "Erstes_Wiki.Models.ErrorViewModel.yml"
+  "Erstes_Wiki.Models.ErrorViewModel.ShowRequestId": "Erstes_Wiki.Models.ErrorViewModel.yml",
+  "Erstes_Wiki.Models.Page": "Erstes_Wiki.Models.Page.yml",
+  "Erstes_Wiki.Models.Page.Id": "Erstes_Wiki.Models.Page.yml",
+  "Erstes_Wiki.Models.Page.Inhalt": "Erstes_Wiki.Models.Page.yml",
+  "Erstes_Wiki.Models.Page.Slug": "Erstes_Wiki.Models.Page.yml"
 }
