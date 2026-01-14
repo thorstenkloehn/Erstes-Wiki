@@ -5,6 +5,7 @@ items:
   id: Erstes_Wiki.Controllers
   children:
   - Erstes_Wiki.Controllers.PageController
+  - Erstes_Wiki.Controllers.StartController
   langs:
   - csharp
   - vb
@@ -21,3 +22,9 @@ references:
   name: PageController
   nameWithType: PageController
   fullName: Erstes_Wiki.Controllers.PageController
+- uid: Erstes_Wiki.Controllers.StartController
+  commentId: T:Erstes_Wiki.Controllers.StartController
+  href: Erstes_Wiki.Controllers.StartController.html
+  name: StartController
+  nameWithType: StartController
+  fullName: Erstes_Wiki.Controllers.StartController

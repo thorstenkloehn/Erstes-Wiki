@@ -7,6 +7,9 @@ items:
   - uid: Erstes_Wiki.Controllers.PageController
     name: PageController
     type: Class
+  - uid: Erstes_Wiki.Controllers.StartController
+    name: StartController
+    type: Class
 - uid: Erstes_Wiki.Data
   name: Erstes_Wiki.Data
   type: Namespace
