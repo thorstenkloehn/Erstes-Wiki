@@ -124,6 +124,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Models.Page.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Models.Page.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Models.Page",
+      "Summary": null
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Erstes_Wiki.Models.yml",
       "output": {
         ".html": {

@@ -39,10 +39,15 @@
     "title": "Class ErrorViewModel | ahrensburg.city – Dokumentation",
     "summary": "Class ErrorViewModel Namespace Erstes_Wiki.Models Assembly Erstes-Wiki.dll public class ErrorViewModel Inheritance object ErrorViewModel Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties RequestId public string? RequestId { get; set; } Property Value string ShowRequestId public bool ShowRequestId { get; } Property Value bool"
   },
+  "api/Erstes_Wiki.Models.Page.html": {
+    "href": "api/Erstes_Wiki.Models.Page.html",
+    "title": "Class Page | ahrensburg.city – Dokumentation",
+    "summary": "Class Page Namespace Erstes_Wiki.Models Assembly Erstes-Wiki.dll public class Page Inheritance object Page Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties Id public BigInteger Id { get; set; } Property Value BigInteger Inhalt public string Inhalt { get; set; } Property Value string Slug public string Slug { get; set; } Property Value string"
+  },
   "api/Erstes_Wiki.Models.html": {
     "href": "api/Erstes_Wiki.Models.html",
     "title": "Namespace Erstes_Wiki.Models | ahrensburg.city – Dokumentation",
-    "summary": "Namespace Erstes_Wiki.Models Classes ErrorViewModel"
+    "summary": "Namespace Erstes_Wiki.Models Classes ErrorViewModel Page"
   },
   "datenschutz.html": {
     "href": "datenschutz.html",
@@ -52,7 +57,7 @@
   "docs/Konzept_und_Einleitung.html": {
     "href": "docs/Konzept_und_Einleitung.html",
     "title": "Konzept und Einleitung | ahrensburg.city – Dokumentation",
-    "summary": "Konzept und Einleitung Einleitung Heutzutage muss Wissen ohne großen Aufwand gespeichert und sehr schnell verändert werden können. Künstliche Intelligenz kann dabei ebenfalls unterstützen und die Bearbeitung verbessern. Viele Personen können Inhalte bearbeiten, der Admin kontrolliert die geschriebenen Inhalte. Er kann Korrekturen vornehmen und freigeben. Mein Projekt speichert keine Benutzerdaten. Aus diesem Grund kann ich meine Inhalte nicht direkt bearbeiten; andere Nutzer können sie jedoch herunterladen und weiterbearbeiten"
+    "summary": "Konzept und Einleitung Einleitung Heutzutage muss Wissen ohne großen Aufwand gespeichert und sehr schnell verändert werden können. Künstliche Intelligenz kann dabei ebenfalls unterstützen und die Bearbeitung verbessern. Viele Personen können Inhalte bearbeiten, der Admin kontrolliert die geschriebenen Inhalte. Er kann Korrekturen vornehmen und freigeben. Mein Projekt speichert keine Benutzerdaten. Aus diesem Grund können andere meine Inhalte nicht bearbeiten; andere Nutzer können sie jedoch herunterladen und auf ihrer Seite weiterbearbeiten."
   },
   "impressum.html": {
     "href": "impressum.html",
