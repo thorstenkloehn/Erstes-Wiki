@@ -52,6 +52,28 @@ references:
   isSpec: "True"
   fullName: Erstes_Wiki.Controllers.HomeController.Privacy
   nameWithType: HomeController.Privacy
+- uid: Erstes_Wiki.Controllers.PageController
+  name: PageController
+  href: api/Erstes_Wiki.Controllers.PageController.html
+  commentId: T:Erstes_Wiki.Controllers.PageController
+  fullName: Erstes_Wiki.Controllers.PageController
+  nameWithType: PageController
+- uid: Erstes_Wiki.Controllers.PageController.Index(System.String)
+  name: Index(string)
+  href: api/Erstes_Wiki.Controllers.PageController.html#Erstes_Wiki_Controllers_PageController_Index_System_String_
+  commentId: M:Erstes_Wiki.Controllers.PageController.Index(System.String)
+  name.vb: Index(String)
+  fullName: Erstes_Wiki.Controllers.PageController.Index(string)
+  fullName.vb: Erstes_Wiki.Controllers.PageController.Index(String)
+  nameWithType: PageController.Index(string)
+  nameWithType.vb: PageController.Index(String)
+- uid: Erstes_Wiki.Controllers.PageController.Index*
+  name: Index
+  href: api/Erstes_Wiki.Controllers.PageController.html#Erstes_Wiki_Controllers_PageController_Index_
+  commentId: Overload:Erstes_Wiki.Controllers.PageController.Index
+  isSpec: "True"
+  fullName: Erstes_Wiki.Controllers.PageController.Index
+  nameWithType: PageController.Index
 - uid: Erstes_Wiki.Data
   name: Erstes_Wiki.Data
   href: api/Erstes_Wiki.Data.html

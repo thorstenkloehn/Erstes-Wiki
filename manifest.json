@@ -26,6 +26,20 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/Erstes_Wiki.Controllers.PageController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Erstes_Wiki.Controllers.PageController.html"
+        }
+      },
+      "version": "",
+      "Uid": null,
+      "IsMRef": true,
+      "Title": "Erstes_Wiki.Controllers.PageController",
+      "Summary": "<p sourcefile=\"api/Erstes_Wiki.Controllers.PageController.yml\" sourcestartlinenumber=\"1\">Der PageController steuert die Startseite .</p>\n"
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/Erstes_Wiki.Controllers.yml",
       "output": {
         ".html": {
