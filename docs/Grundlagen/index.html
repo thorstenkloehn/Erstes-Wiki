@@ -2,9 +2,9 @@
 <html>
   <head>
     <meta charset="utf-8">
-      <title> | ahrensburg.city – Dokumentation </title>
+      <title>Entwickeln Asp Net Core MVC | ahrensburg.city – Dokumentation </title>
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="title" content=" | ahrensburg.city – Dokumentation ">
+      <meta name="title" content="Entwickeln Asp Net Core MVC | ahrensburg.city – Dokumentation ">
       
       
       <link rel="icon" href="../../favicon.ico">
@@ -85,8 +85,36 @@
         </div>
 
         <article data-uid="">
+<h1 id="entwickeln-asp-net-core-mvc">Entwickeln Asp Net Core MVC</h1>
 
-<h2 id="grundlagen">Grundlagen</h2>
+<h2 id="grundlagen-in-c">Grundlagen in C#</h2>
+<p>Um C# zu beherrschen, sollte man die folgenden Konzepte kennen:</p>
+<ul>
+<li>Variablen und Datentypen</li>
+<li>Kontrollstrukturen (if, switch, Schleifen)</li>
+<li>Methoden und Parameter</li>
+<li>Klassen und Objekte</li>
+<li>Vererbung und Polymorphismus</li>
+<li>Schnittstellen</li>
+<li>Fehlerbehandlung (Exceptions)</li>
+<li>Collections und LINQ</li>
+<li>Asynchrone Programmierung</li>
+</ul>
+<h2 id="http-grundlagen-in-c">HTTP Grundlagen in C#</h2>
+<p>Um mit HTTP in C# zu arbeiten, verwendet man häufig die Klasse <code>HttpClient</code> aus dem Namespace <code>System.Net.Http</code>. Damit können HTTP-Anfragen gesendet und Antworten empfangen werden.</p>
+<h2 id="routing-in-aspnet-core">Routing in ASP.NET Core</h2>
+<p>In ASP.NET Core werden Seiten und Controller über Routing angesprochen. Das Routing bestimmt, welche URL auf welche Seite oder Aktion verweist.</p>
+<h3 id="seiten-router">Seiten Router</h3>
+<pre><code class="lang-csharp">// Mit dieser Route werden alle Anfragen, die keinem anderen Muster entsprechen,
+// an den &quot;Seite&quot;-Controller und die &quot;Index&quot;-Aktion weitergeleitet.
+// Das Muster &quot;{*slug}&quot; fängt beliebige Pfade ab (z. B. /info/test/seite).
+// &quot;WithStaticAssets()&quot; sorgt dafür, dass statische Dateien wie Bilder oder CSS weiterhin erreichbar sind.
+app.MapControllerRoute(
+    name: &quot;cms&quot;,
+    pattern: &quot;{*slug}&quot;,
+    defaults: new { controller = &quot;Seite&quot;, action = &quot;Index&quot; })
+    .WithStaticAssets();
+</code></pre>
 
 </article>
 
