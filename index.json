@@ -49,10 +49,15 @@
     "title": "Class Page | ahrensburg.city – Dokumentation",
     "summary": "Class Page Namespace Erstes_Wiki.Models Assembly Erstes-Wiki.dll public class Page Inheritance object Page Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties Id public BigInteger Id { get; set; } Property Value BigInteger Inhalt public string Inhalt { get; set; } Property Value string Slug public string Slug { get; set; } Property Value string"
   },
+  "api/Erstes_Wiki.Models.Seite.html": {
+    "href": "api/Erstes_Wiki.Models.Seite.html",
+    "title": "Class Seite | ahrensburg.city – Dokumentation",
+    "summary": "Class Seite Namespace Erstes_Wiki.Models Assembly Erstes-Wiki.dll public class Seite Inheritance object Seite Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Properties Id Eindeutige ID der Seite. public long Id { get; set; } Property Value long InputMarkdown Inhalt der Seite im Markdown-Format. public string InputMarkdown { get; set; } Property Value string IstVeröffentlicht Gibt an, ob die Seite veröffentlicht ist. public bool IstVeröffentlicht { get; set; } Property Value bool OutputHtml Gerenderter HTML-Inhalt der Seite. public string OutputHtml { get; set; } Property Value string Path Pfad oder URL der Seite. public string Path { get; set; } Property Value string"
+  },
   "api/Erstes_Wiki.Models.html": {
     "href": "api/Erstes_Wiki.Models.html",
     "title": "Namespace Erstes_Wiki.Models | ahrensburg.city – Dokumentation",
-    "summary": "Namespace Erstes_Wiki.Models Classes ErrorViewModel Page"
+    "summary": "Namespace Erstes_Wiki.Models Classes Seite"
   },
   "datenschutz.html": {
     "href": "datenschutz.html",
