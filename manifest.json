@@ -12,10 +12,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "GrundlagenC#Programmieren/index.md",
+      "source_relative_path": "GrundlagenC_Programmieren/index.md",
       "output": {
         ".html": {
-          "relative_path": "GrundlagenC#Programmieren/index.html"
+          "relative_path": "GrundlagenC_Programmieren/index.html"
         }
       },
       "version": ""
