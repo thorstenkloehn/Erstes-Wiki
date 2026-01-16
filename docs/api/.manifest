@@ -13,11 +13,10 @@
   "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.yml",
   "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)": "Erstes_Wiki.Data.Migrations.CreateIdentitySchema.yml",
   "Erstes_Wiki.Models": "Erstes_Wiki.Models.yml",
-  "Erstes_Wiki.Models.ErrorViewModel": "Erstes_Wiki.Models.ErrorViewModel.yml",
-  "Erstes_Wiki.Models.ErrorViewModel.RequestId": "Erstes_Wiki.Models.ErrorViewModel.yml",
-  "Erstes_Wiki.Models.ErrorViewModel.ShowRequestId": "Erstes_Wiki.Models.ErrorViewModel.yml",
-  "Erstes_Wiki.Models.Page": "Erstes_Wiki.Models.Page.yml",
-  "Erstes_Wiki.Models.Page.Id": "Erstes_Wiki.Models.Page.yml",
-  "Erstes_Wiki.Models.Page.Inhalt": "Erstes_Wiki.Models.Page.yml",
-  "Erstes_Wiki.Models.Page.Slug": "Erstes_Wiki.Models.Page.yml"
+  "Erstes_Wiki.Models.Seite": "Erstes_Wiki.Models.Seite.yml",
+  "Erstes_Wiki.Models.Seite.Id": "Erstes_Wiki.Models.Seite.yml",
+  "Erstes_Wiki.Models.Seite.InputMarkdown": "Erstes_Wiki.Models.Seite.yml",
+  "Erstes_Wiki.Models.Seite.IstVeröffentlicht": "Erstes_Wiki.Models.Seite.yml",
+  "Erstes_Wiki.Models.Seite.OutputHtml": "Erstes_Wiki.Models.Seite.yml",
+  "Erstes_Wiki.Models.Seite.Path": "Erstes_Wiki.Models.Seite.yml"
 }

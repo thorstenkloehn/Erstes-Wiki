@@ -4,8 +4,7 @@ items:
   commentId: N:Erstes_Wiki.Models
   id: Erstes_Wiki.Models
   children:
-  - Erstes_Wiki.Models.ErrorViewModel
-  - Erstes_Wiki.Models.Page
+  - Erstes_Wiki.Models.Seite
   langs:
   - csharp
   - vb
@@ -16,15 +15,9 @@ items:
   assemblies:
   - Erstes-Wiki
 references:
-- uid: Erstes_Wiki.Models.ErrorViewModel
-  commentId: T:Erstes_Wiki.Models.ErrorViewModel
-  href: Erstes_Wiki.Models.ErrorViewModel.html
-  name: ErrorViewModel
-  nameWithType: ErrorViewModel
-  fullName: Erstes_Wiki.Models.ErrorViewModel
-- uid: Erstes_Wiki.Models.Page
-  commentId: T:Erstes_Wiki.Models.Page
-  href: Erstes_Wiki.Models.Page.html
-  name: Page
-  nameWithType: Page
-  fullName: Erstes_Wiki.Models.Page
+- uid: Erstes_Wiki.Models.Seite
+  commentId: T:Erstes_Wiki.Models.Seite
+  href: Erstes_Wiki.Models.Seite.html
+  name: Seite
+  nameWithType: Seite
+  fullName: Erstes_Wiki.Models.Seite

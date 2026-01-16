@@ -28,10 +28,7 @@ items:
   name: Erstes_Wiki.Models
   type: Namespace
   items:
-  - uid: Erstes_Wiki.Models.ErrorViewModel
-    name: ErrorViewModel
-    type: Class
-  - uid: Erstes_Wiki.Models.Page
-    name: Page
+  - uid: Erstes_Wiki.Models.Seite
+    name: Seite
     type: Class
 memberLayout: SamePage
