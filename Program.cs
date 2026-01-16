@@ -37,7 +37,7 @@ app.MapStaticAssets();
 
 app.MapControllerRoute(
     name: "cms",
-    pattern: "{*slug}",
+    pattern: "{*Path}",
     defaults: new { controller = "Page", action = "Index" })
     .WithStaticAssets();
 
