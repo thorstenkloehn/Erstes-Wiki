@@ -189,10 +189,10 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "docs/Grundlagen_Thema/Grundlagen_Thema.md",
+      "source_relative_path": "docs/Grundlagen/index.md",
       "output": {
         ".html": {
-          "relative_path": "docs/Grundlagen_Thema/Grundlagen_Thema.html"
+          "relative_path": "docs/Grundlagen/index.html"
         }
       },
       "version": ""
