@@ -198,6 +198,19 @@
       "version": ""
     },
     {
+      "type": "Toc",
+      "source_relative_path": "docs/Grundlagen/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "docs/Grundlagen/toc.json"
+        },
+        ".html": {
+          "relative_path": "docs/Grundlagen/toc.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "docs/Konzept_und_Einleitung.md",
       "output": {
