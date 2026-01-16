@@ -20,7 +20,7 @@ items:
       repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: PageController
     path: ../Controllers/PageController.cs
-    startLine: 7
+    startLine: 10
   assemblies:
   - Erstes-Wiki
   namespace: Erstes_Wiki.Controllers
@@ -261,17 +261,21 @@ items:
       repo: https://github.com/thorstenkloehn/Erstes-Wiki.git
     id: Index
     path: ../Controllers/PageController.cs
-    startLine: 10
+    startLine: 18
   assemblies:
   - Erstes-Wiki
   namespace: Erstes_Wiki.Controllers
+  summary: 'GET: PageController'
+  example: []
   syntax:
     content: public ActionResult Index(string slug)
     parameters:
     - id: slug
       type: System.String
+      description: ''
     return:
       type: Microsoft.AspNetCore.Mvc.ActionResult
+      description: ''
     content.vb: Public Function Index(slug As String) As ActionResult
   overload: Erstes_Wiki.Controllers.PageController.Index*
   nameWithType.vb: PageController.Index(String)
