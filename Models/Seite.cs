@@ -12,9 +12,9 @@ public class Seite
     public long Id { get; set; }
 
     /// <summary>
-    /// Pfad oder URL der Seite.
+    /// slug oder URL der Seite.
     /// </summary>
-    public string Path { get; set; } = string.Empty;
+    public string Slug { get; set; } = string.Empty;
 
     /// <summary>
     /// Inhalt der Seite im Markdown-Format.
